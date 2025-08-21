@@ -1,4 +1,4 @@
-!(ComiCord splash)[https://github.com/squairdev/ComiCord/raw/main/assets/comicord.png]
+<img src="https://github.com/squairdev/ComiCord/raw/main/assets/comicord.png">
 
 # ComiCord
 
@@ -18,10 +18,10 @@ Sadly, I couldn't find all the text elements. Most text is in comic sans though.
 
 ## Images
 
-!(Messages)[https://github.com/squairdev/ComiCord/raw/main/assets/chat.png]
+<img src="https://github.com/squairdev/ComiCord/raw/main/assets/chat.png">
 
-!(Channels)[https://github.com/squairdev/ComiCord/raw/main/assets/channels.png]
+<img src="https://github.com/squairdev/ComiCord/raw/main/assets/channels.png">
 
-!(Profiles)[https://github.com/squairdev/ComiCord/raw/main/assets/profile.png]
+<img src="https://github.com/squairdev/ComiCord/raw/main/assets/profile.png">
 
 As you can see, most of the content is in Comic Sans. (Not all... yet.)
