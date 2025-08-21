@@ -11,7 +11,7 @@ Sadly, I couldn't find all the text elements. Most text is in comic sans though.
 ### vencord / betterdiscord / etc
 
 1. Use the Online Link version, by going to themes > online themes and pasting in the following: 
-`https://github.com/squairdev/ComiCord/raw/main/ComiCord.css`
+`https://raw.githubusercontent.com/squairdev/ComiCord/main/ComiCord.css`
 
 2. Add the [ComicCord.css](https://github.com/squairdev/ComiCord/raw/main/ComiCord.css) file to your themes folder.
 
